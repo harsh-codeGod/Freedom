@@ -1,5 +1,10 @@
 # Freedom
 
+Please clone the repository and execute the following commands:
+cd Freedom
+sudo gcc -0 main main.c
+./main
+
 A 10x10 board game is implemented. The game begins with an empty board and there are two types of stones: white and black stones. 
 White stone is placed first and then black stone and each stone is placed alternatively until the board is filled. 
 The type of stone which has more "live stones", i.e. a part of some horizontal, vertical or diagonal row of exactky 4 stones of the same color, wins.
