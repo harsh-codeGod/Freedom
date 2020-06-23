@@ -10,7 +10,7 @@ Execute the following commands to run the game:
 ```
 git clone https://github.com/hshastri/Freedom.git
 cd Freedom
-sudo gcc -0 main main.c
+sudo gcc -o main main.c
 ./main
 ```
 
